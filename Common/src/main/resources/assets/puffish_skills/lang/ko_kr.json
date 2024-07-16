@@ -3,7 +3,7 @@
 	"text.puffish_skills.points_left": "남은 포인트: ",
 
 	"tooltip.puffish_skills.current_level": "현재 레벨: %s",
-	"tooltip.puffish_skills.experience_progress": "Experience: %s/%s (%s%%)",
+	"tooltip.puffish_skills.experience_progress": "경험치: %s/%s (%s%%)",
 	"tooltip.puffish_skills.to_next_level": "다음 레벨까지: %s",
 	"tooltip.puffish_skills.earned_points": "받은 포인트: %s",
 	"tooltip.puffish_skills.spent_points": "사용한 포인트: %s",
